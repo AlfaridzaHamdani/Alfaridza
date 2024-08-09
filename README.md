@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfaridzahamdani&label=Profile%20views&color=0e75b6&style=flat" alt="alfaridzahamdani" /> </p>
 
-- 🔭 I’m currently working on [coursework](https://github.com/Ilmu-Padi/ilmu-padi)
-
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://alfaridzahamdani.github.io/Portofolio/](https://alfaridzahamdani.github.io/Portofolio/)
