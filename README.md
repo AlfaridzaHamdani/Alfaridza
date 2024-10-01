@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://alfaridzahamdani.github.io/Portofolio/](https://alfaridzahamdani.github.io/Portofolio/)
+- 👨‍💻 All of my projects are available at [**Portofolio**](alfaridza.site)
 
 - 📫 How to reach me **alfaridzah@gmail.com**
 
